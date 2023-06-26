@@ -4,8 +4,29 @@
 composer install
 ```
 
+## .env setup
 
+```
+copy .env example and create .env
+```
 
+## Key Generate
+
+```
+php artisan key:generate
+```
+
+## Migrate
+
+```
+php artisan migrate
+```
+
+## Run Serve
+
+```
+php artisan serve
+```
 
 
 
